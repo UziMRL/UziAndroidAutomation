@@ -19,6 +19,10 @@ devices_by_ids = {
     "appium:app": "/Users/qa/Downloads/Asound 6.11.64.173_useQA (1).apk",
     "appium:appWaitActivity": "*"
 }
+ios_devices = {
+    "platformName": "IOS",
+
+}
 """
 name needs to be equal
 
