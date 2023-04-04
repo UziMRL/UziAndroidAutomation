@@ -9,15 +9,15 @@ devices_by_ids = {
         "panelistid": "1011031",
         "customerid": "101",
         "projectid": "401",
-        "activation_code": "101_401_1031",
+        "activation_code": "101_401_1006",
         "android_version": "13",
         "device_name": "google_Pixel_5a",
         "16251JECB06756": "16251JECB06756",
         "port":"4723",
         "autoGrantPermissions": "true",
     },
-    "appium:app": "/Users/qa/Downloads/Asound 6.11.64.173_useQA (1).apk",
-    "appium:appWaitActivity": "*"
+    "appium:appPackage": "com.android.settings",
+    "appium:appActivity": "com.android.settings.Settings"
 }
 ios_devices = {
     "platformName": "IOS",
